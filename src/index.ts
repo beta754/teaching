@@ -6,6 +6,10 @@ myVar = myVar + 1234
 // 1 - 1
 // 1 * 1
 // 1 / 1
+// 5 % 3 = 2
+
+// modulus / modulo
+console.info("remdainder is", 6 % 6)
 
 // Boolean operators
 // const x = (false || true)
@@ -72,3 +76,12 @@ function looped(x) {
   return sum
 }
 console.info("looped", looped(3))
+
+// write a function that takes a name and a favorite color
+// as parameters and logs them to the console.
+// run for:
+// Emily, who's favorite color is purple
+// Joe, who's favorite color is gray
+// Frank, who's favorite color is maroon
+
+
